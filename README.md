@@ -1,1 +1,1 @@
-# basic-travel-website using html and css
+# basic-responsive-travel-website using html and css
